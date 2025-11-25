@@ -1,8 +1,5 @@
 # demand-pricing-forecasting
-#  Intelligent Demand Forecasting + Dynamic Pricing
 
-**Machine Learning + Deep Learning Project**  
-**By: _Pranavi Devulapalli_**
 
 ---
 
